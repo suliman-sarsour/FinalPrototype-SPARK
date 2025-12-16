@@ -96,7 +96,7 @@ The projects are designed for **training, experimentation, and field-ready proto
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/suliman-sarsour/FinalPrototype-SPARK.git
 ```
 
 2. Open the desired project folder
